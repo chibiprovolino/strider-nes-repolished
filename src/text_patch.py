@@ -1,4 +1,4 @@
-"""Revised English script (src/revised.json, from the Strider Script Revision page; not distributed here) -> ROM.
+"""Revised English script (src/revised.json, not distributed here) -> ROM.
 
 Dialogue / monitor messages (table bank 7 $88D9) and story screens (table bank 7 $97BD) are rewritten and
 repacked inside the three runs of bank 7 that hold nothing but those messages; every table entry that pointed at a

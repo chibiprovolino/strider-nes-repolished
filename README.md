@@ -77,7 +77,6 @@ the text patch needs is extracted from your ROM at build time (`src/build_entrie
 ## Credits
 - Displaced Gamers' *Behind the Code* videos on Strider's garbage sprites and jumping physics, which explained the
   original bugs this project started from.
-- The *Strider Script Revision* fan project for the revised English text.
 
 ## License
 The patch source code in this repository is released under the [MIT License](LICENSE). It does not cover
