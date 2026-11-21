@@ -126,6 +126,10 @@ the text patch needs is extracted from your ROM at build time (`src/build_entrie
   original bugs this project started from.
 - The *Strider Script Revision* fan project for the revised English text.
 
+## License
+The patch source code in this repository is released under the [MIT License](LICENSE). It does not cover
+the game itself or the revised script text.
+
 ## Disclaimer
 Strider is © Capcom. This is an unofficial fan patch, not affiliated with or endorsed by Capcom or Nintendo.
 This repository contains no ROM images or extracted game assets: only patch source code and an IPS patch to apply to your own copy.
