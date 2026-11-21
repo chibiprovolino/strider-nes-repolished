@@ -1,0 +1,7 @@
+*.nes
+*.sav
+*.srm
+build/
+__pycache__/
+*.pyc
+src/revised.json
